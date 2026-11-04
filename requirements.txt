@@ -1,0 +1,3 @@
+x402>=2.10
+eth-account
+httpx
